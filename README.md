@@ -22,24 +22,6 @@ This project demonstrates automated UI and API testing with a focus on:
 - Status code validation
 - Response data validation
 
-## 🏗️ Project Structure
-qa-automation-project/
-│
-├─ pages/ # Page Object Model classes
-│ ├─ base_page.py
-│ └─ login_page.py
-│
-├─ tests/ # Test files
-│ ├─ test_login_positive.py
-│ ├─ test_login_negative.py
-│ └─ test_empty_fields.py
-│
-├─ data/ # Test data
-│ └─ test_data.py
-│
-├─ requirements.txt
-└─ README.md
-
 ## ⚙️ Technologies Used
 
 - Python
